@@ -10,12 +10,6 @@
 
 ## 🚀 What I’m Working On:
 - 🔧 Developing **crypto software and automation tools**
-- 🌱 Currently learning:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" /> HTML  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" /> CSS  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" /> JavaScript  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" /> Python  
 
 ---
 

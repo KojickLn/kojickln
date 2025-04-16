@@ -43,7 +43,7 @@
 
 ## 📌 About Me:
 ```yaml
-Name: Mykola Hebrian
+Name: Koji Crypto
 Role: Software Developer
 Focus:
   - Crypto & Blockchain
